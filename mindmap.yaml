@@ -1,0 +1,16 @@
+---
+parent:
+  - node # comment here #345345
+  - node
+  - node:
+    - subnode
+    - another
+new parent:
+  - smth
+  - smth-2:
+      whats up guys:
+        - crazy bae:
+          - subnode
+          - node
+
+...
